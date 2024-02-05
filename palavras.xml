@@ -1,0 +1,60 @@
+<biblioteca>
+<cidade id="1">
+    <palavra order="1">
+        <nome>Salvador</nome>
+        <dica>Fica no Estado da Bahia</dica>
+    </palavra>
+    <palavra order="2">
+        <nome>Teresina</nome>
+        <dica>Fica no Estado do Piauí</dica>
+    </palavra>
+    <palavra order="3">
+        <nome>São Luiz</nome>
+        <dica>Fica no Estado do Maranhão</dica>
+    </palavra>
+    <palavra order="4">
+        <nome>Fortaleza</nome>
+        <dica>Fica no Estado do Ceará</dica>
+    </palavra>    
+    <palavra order="4">
+        <nome>João Pessoa</nome>
+        <dica>Fica no Estado da Paraíba</dica>
+    </palavra>        
+    <palavra order="6">
+        <nome>Recife</nome>
+        <dica>Fica no Estado de Pernambuco</dica>
+    </palavra>            
+    <palavra order="7">
+        <nome>Maceio</nome>
+        <dica>Fica no Estado de Alagoas</dica>
+    </palavra>              
+</cidade>
+<veiculo id="2">
+    <palavra order="1">
+        <nome>Civic</nome>
+        <dica>Fabricado pela Honda</dica>
+    </palavra>
+    <palavra order="2">
+        <nome>Corolla</nome>
+        <dica>Fabricado pela Toyta</dica>
+    </palavra>
+    <palavra order="3">
+        <nome>Fusca</nome>
+        <dica>Fabricado pela Volskvagem</dica>
+    </palavra>
+</veiculo>
+<fruta id="3">
+    <palavra order="1">
+        <nome>Maca</nome>
+        <dica>Fruta do pecado</dica>
+    </palavra>
+    <palavra order="2">
+        <nome>Caju</nome>
+        <dica>Grande produção no Nordeste</dica>
+    </palavra>
+    <palavra order="3">
+        <nome>Banana</nome>
+        <dica>Geralmente associada a preços baixos</dica>
+    </palavra>
+</fruta>
+</biblioteca>
